@@ -1,2 +1,3 @@
 # Personal_Projects
-Mix of School and Personal Projects
+Projects created for personal exploration as well as projects created fro school assignments. School projects uploaded here have all been cleareed with professors to avoid any academic dishonesty.
+
